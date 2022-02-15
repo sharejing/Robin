@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/sharejing/Robin/blob/main/images/Robin-logo.png" height="150px"/></div>
 
-<h2 align="center">Robin: All Resources for Information Extraction Task.</h2>
+<h2 align="center">Robin: All Resources for Information Extraction Task</h2>
 
 🚩<b>Robin的目标是：收集信息抽取任务的所有资源。</b>
 
