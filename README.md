@@ -12,7 +12,7 @@
 * 事件抽取 (Event Extraction)
 
 因此，我们收集的资源包括：
-* 各大顶会论文 (ACL/EMNLP/IJCAI/COLING/KDD/AAAI等)
+* 会议论文 (ACL/EMNLP/IJCAI/COLING/KDD/AAAI等)
 * 数据集 (来自于论文/比赛/workshop/公司/学校等)
 * 工具 (IE所有任务的工具)
 * 报告 (Tutorial/公司的调研报告/学术报告等)
@@ -20,7 +20,10 @@
 
 
 ## 资源列表 (Resources List)
-- [Papers](../../wiki/各大顶会论文)
+- [经典论文](../../wiki/各大顶会论文)
+  - [ACL2022](../../wiki/各大顶会论文#acl2022)
+  - [ACL2021](../../wiki/各大顶会论文#acl2021)
+  - [EMNLP2021](../../wiki/各大顶会论文#emnlp2021)
 <!-- - [Datasets]
 - [Toolkits]
 - [Reports]
