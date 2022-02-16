@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/sharejing/Robin/blob/main/images/Robin-logo.png" height="150px"/></div>
+<div align="center"><img src="https://github.com/sharejing/Robin/blob/main/0-image/Robin-logo.png" height="150px"/></div>
 
 <h2 align="center">Robin: All Resources for Information Extraction Task</h2>
 
@@ -6,10 +6,10 @@
 
 我们将信息抽取 (Information Extraction, IE)定义为以下几种任务：
 * 命名实体识别 (Named Entity Recognition, NER)
+* 关键短语抽取 (Keyphrase Extraction)
+* 片段抽取 (Spam Extraction)
 * 关系抽取 (Relation Extraction, RE)
 * 事件抽取 (Event Extraction)
-* 片段抽取 (Spam Extraction)
-* 关键短语抽取 (Keyphrase Extraction)
 
 因此，我们收集的资源包括：
 * 各大顶会论文 (ACL/EMNLP/IJCAI/COLING/KDD/AAAI等)
