@@ -20,7 +20,7 @@
 
 
 ## 资源列表 (Resources List)
-- [Papers](../../wiki/各大顶会论文)
+- [Papers](../../Robin/wiki/各大顶会论文)
 <!-- - [Datasets]
 - [Toolkits]
 - [Reports]
